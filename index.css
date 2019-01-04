@@ -42,7 +42,7 @@ body::before {
   padding:2em;
   background-image: url('construction-deconstruction-1-phil-vance.jpg');
   color:black;
-  text-shadow: 1px, 1px, white;
+  text-shadow:  2px 2px white;
 }
 .formul{
   text-align: center;
@@ -57,5 +57,4 @@ body::before {
 footer{
   width:100%;
   text-align: center;
-
 }
